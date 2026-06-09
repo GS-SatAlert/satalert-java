@@ -21,8 +21,8 @@ API REST de monitoramento de queimadas e desmatamento via satélite.
 
 - **Deploy:** https://satalert-java-production.up.railway.app/swagger-ui/index.html
 - **Swagger:** http://localhost:8080/swagger-ui.html
-- **Vídeo demonstração:** *(em breve)*
-- **Vídeo pitch:** *(em breve)*
+- **Vídeo demonstração:** https://youtu.be/97AXFQjmf3c?si=lp3adgcMnNYb8sdw
+- **Vídeo pitch:** https://youtu.be/flISAHDgXsE?si=qE5hHy4uxqc_mymB
 
 ---
 
